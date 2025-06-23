@@ -1,5 +1,5 @@
 
-
+ 
 Overview:
 ----------
 This project aims to detect insider threats within an organization by analyzing user behavior using machine learning techniques. It utilizes logon, email, file, and device usage data to build models that can identify anomalous activities suggestive of malicious intent.
